@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...learning
 - 📫 How to reach me ...alistairnhiwatiwa@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Humane
+- ⚡ Fun fact: ...AI has been around for decades
 
 <!---
 Onesayi/Onesayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
