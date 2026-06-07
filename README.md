@@ -1,4 +1,4 @@
-# Hi, I'm Onesayi 👋
+# Hi, I'm Alistair O Nhiwatiwa👋
 
 IT Support & Cybersecurity professional based in South Africa.
 
