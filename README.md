@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Onesayi
-- 👀 I’m interested in ...python,java
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...learning
-- 📫 How to reach me ...alistairnhiwatiwa@gmail.com
-- 😄 Pronouns: ...Humane
-- ⚡ Fun fact: ...AI has been around for decades
+# Hi, I'm Onesayi 👋
 
-<!---
-Onesayi/Onesayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+IT Support & Cybersecurity professional based in South Africa.
+
+## 🛠️ Skills
+- Active Directory | DNS | DHCP | Group Policy
+- Splunk SIEM | Sysmon | Log Analysis
+- Networking | CompTIA Network+ | CCNA
+- Kali Linux | Threat Detection | Atomic Red Team
+- VirtualBox | Windows Server 2022 | Windows 10
+
+## 🔬 Home Lab Projects
+- **[Active Directory & SIEM Lab](https://github.com/Onesayi/active-directory-siem-lab)** — 
+  AD DS, Splunk, Kali Linux attack simulation, Atomic Red Team
+
+## 📫 Contact
+- alistairnhiwatiwa@gmail.com
